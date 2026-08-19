@@ -1,0 +1,12 @@
+{
+  "project": "OGL_Tactile_Sync_PoC",
+  "device_id": "TACTILE_GLOVE_V2",
+  "sampling_rate_hz": 100,
+  "calibration_matrix": [
+    [0.1, 0.2, 0.3],
+    [0.4, 0.5, 0.6],
+    [0.7, 0.8, 0.9]
+  ],
+  "operator_id": "ENG_001",
+  "session_start": "2026-08-19T10:00:00Z"
+}
